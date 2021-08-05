@@ -1,0 +1,149 @@
+.footer__color table {
+  background-color: aqua;
+}
+
+.Contacto {
+  color: green;
+}
+
+.TituloFoot {
+  background-color: grey;
+  text-align: center;
+  color: black;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+@media only screen and (max-width: 767px) {
+  h1 {
+    font-size: 40px;
+  }
+}
+
+h3 {
+  color: blue;
+}
+
+.titulo_alig_color {
+  text-align: center;
+  padding: 40px;
+}
+
+img {
+  padding: 20px;
+}
+
+.informacion_alig_estilo h3 {
+  text-align: center;
+}
+
+.informacion_alig_estilo article {
+  font-style: italic;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: right;
+}
+
+h3 {
+  text-align: right;
+}
+
+h4 {
+  text-align: right;
+}
+
+h5 {
+  text-align: right;
+}
+
+h6 {
+  text-align: right;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+@media only screen and (max-width: 767px) {
+  h1 {
+    font-size: 40px;
+  }
+}
+
+h3 {
+  color: blue;
+}
+
+.titulo_alig_color {
+  text-align: center;
+  padding: 40px;
+}
+
+img {
+  padding: 20px;
+}
+
+.informacion_alig_estilo h3 {
+  text-align: center;
+}
+
+.informacion_alig_estilo article {
+  font-style: italic;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: right;
+}
+
+h3 {
+  text-align: right;
+}
+
+h4 {
+  text-align: right;
+}
+
+h5 {
+  text-align: right;
+}
+
+h6 {
+  text-align: right;
+}
+
+.footer__color table {
+  background-color: aqua;
+}
+
+.Contacto {
+  color: green;
+}
+
+.TituloFoot {
+  background-color: grey;
+  text-align: center;
+  color: black;
+}
+
+.foooter table {
+  font-style: italic;
+  font-family: tahoma;
+}
+/*# sourceMappingURL=style.css.map */

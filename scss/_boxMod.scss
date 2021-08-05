@@ -1,0 +1,29 @@
+@import "tamanios";
+@import "colores";
+$padding:20px;
+$margin:30px;
+
+.foooter table{
+    font: {
+        style:italic;
+        family: tahoma;
+    }
+}
+
+// .container-info-fluid {
+// 	margin:{
+// 		top:$margin;
+// 		bottom:$margin;
+// 		left:$margin;
+// 		right:$margin;
+// 	}
+// 	// font:{
+// 	// size:$h1Desktop;
+// 	// font-style:italic;
+// 	// font-family:tahoma;
+// 	// }
+// 	// .row {
+// 	// padding:$padding;
+// 	// }
+
+// }

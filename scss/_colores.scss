@@ -1,0 +1,31 @@
+$azul:blue;
+$amarillo:yellow;
+$negro:black;
+$blanco:white;
+$violeta:violet;
+
+.footer__color table{background-color: aqua;
+
+}
+$color: verde;
+
+.Contacto {
+    @if ($color == azul){
+        color: blue;
+    } @else if ($color == verde){
+        color: green;
+    } @else {
+        color: red;
+    }
+}
+
+$estilos:(
+    color:grey,
+    centro: center
+);
+
+.TituloFoot {
+    background-color: map-get($estilos , color);
+    text-align: map-get($estilos, centro );
+    color: black;
+}
